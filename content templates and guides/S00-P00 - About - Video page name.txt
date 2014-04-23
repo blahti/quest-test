@@ -1,0 +1,10 @@
+TYPE: 
+Video Page
+NAME:
+The title to be displayed to the player
+DESCRIPTION:
+The description text and explanation to be displayed to the player.
+FILES:
+S0P01 – V01 – name of the vide.mp4
+
+

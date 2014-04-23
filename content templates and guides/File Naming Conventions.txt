@@ -1,0 +1,20 @@
+The naming convention should be pretty obvious.
+T = tutorial
+W = workout
+H = Help module
+C = challenge module
+
+Inside a module:
+S00 – About = the description page for a set
+S01P01 = set 1, page 1
+S01P02 = set 1, page 2
+SnPm – About  = the description page for set n, page m
+S01P01 – V01 –=  the first video for set 1, page 1
+S02P04 – I04 = the 4th image to be attached to page4 of set 2
+
+File Sort Order within a Module
+The names have been chosen so when you view the files for a module in a Windows Explorer window (or a Mac Finder) window, the Page  files sort in the same order as  they would be displayed to a player. The Set file for S01 comes first, then the Pages within the S01 set, followed by the S02 Set items, etc. 
+
+
+
+

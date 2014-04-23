@@ -1,0 +1,11 @@
+TYPE: 
+Video Page
+NAME:
+Welcome to Quest Learning Environment
+DESCRIPTION:
+Welcome to Quest Learning Environment, the Sage.
+Voice and Icon. Quick overview of Perceiving, Sensemaking, Choreography. Focus on Perceiving - framing, engaging, processing. Layout of Gym. Tutorials – purpose + segments. Workouts. Challenges. Help. Personal Advisor assistance available.
+FILES:
+S1P01 – V01 – Quest Environment Orientation.mp4
+
+

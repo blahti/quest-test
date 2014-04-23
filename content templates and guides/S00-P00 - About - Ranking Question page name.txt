@@ -1,0 +1,28 @@
+TYPE: 
+Ranking Question Page
+QUESTION:
+The question goes here
+DESCRIPTION:
+Text that gets displayed with the question.
+IMAGE AND VIDEO FILES:
+S00P00 – I01 – name of page.jpg
+S00P00 – I02 – name of page.jpg
+S00P00 – I03 – name of page.jpg
+S00P00 – V01 – name of video.mp4
+(0-4 images or videos to be shown with the question and question text above.)
+HINT TEXT:
+The text that is shown to the player if the player selects the Hint icon/button.
+HELP MODULE:
+H00 – help module name  (the name of the help module to be displayed to the player if the player clicks Help inside the Hint popup.)
+ITEMS TO BE SORTED
+Item 1 text:  text to display to the player for item 1
+Item 1 Expected Response: the expected rank for the item; in the range 1..10
+Item 2 text:  text to display to the player for item 1
+Item 2 Expected Response: the expected rank for the item; in the range 1..10
+Item 3 …: 
+
+FEEDBACK TEXT: 
+The text that is shown to the player if the list the player submits is incorrect.
+
+
+
