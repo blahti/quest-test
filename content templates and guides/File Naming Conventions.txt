@@ -9,7 +9,7 @@ S00 – About = the description page for a set
 S01P01 = set 1, page 1
 S01P02 = set 1, page 2
 SnPm – About  = the description page for set n, page m
-S01P01 – V01 –=  the first video for set 1, page 1
+S01P01 – V01 =  the first video for set 1, page 1
 S02P04 – I04 = the 4th image to be attached to page4 of set 2
 
 File Sort Order within a Module

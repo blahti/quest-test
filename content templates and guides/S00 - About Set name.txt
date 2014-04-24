@@ -1,7 +1,9 @@
 TYPE: 
 Set
+
 NAME:
 Set name
+
 DESCRIPTION:
 Description of the set.
 (Note: It is not clear to me where this text gets displayed. Players, for the most part, see the pages in a Set.)

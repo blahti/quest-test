@@ -1,21 +1,27 @@
 TYPE: 
 Question  Page
+
 QUESTION:
 The question goes here
+
 DESCRIPTION:
 Text that gets displayed with the question.
+
 IMAGE AND VIDEO FILES:
-S00P00 – I01 – name of page.jpg
-S00P00 – I02 – name of page.jpg
-S00P00 – I03 – name of page.jpg
-S00P00 – V01 – name of video.mp4
+S00P00 - I01 - name of page.jpg
+S00P00 - I02 - name of page.jpg
+S00P00 - I03 - name of page.jpg
+S00P00 - V01 - name of video.mp4
 (0-4 images or videos to be shown with the question and question text above.)
+
 HINT TEXT:
 The text that is shown to the player if the player selects the Hint icon/button.
+
 HELP MODULE:
-H00 – help module name  (the name of the help module to be displayed to the player if the player clicks Help inside the Hint popup.)
+H00 - help module name  (the name of the help module to be displayed to the player if the player clicks Help inside the Hint popup.)
+
 FEEDBACK TEXT:
-The text that is shown to the player after the player responds to the question. We expect this could be things like “Now, you are ready for …”, “I know this has been a difficult module, but …”, “Next, you should start thinking about …”.
+The text that is shown to the player after the player responds to the question. We expect this could be things like "Now, you are ready for ...", "I know this has been a difficult module, but ...", "Next, you should start thinking about ...".
 
 
 

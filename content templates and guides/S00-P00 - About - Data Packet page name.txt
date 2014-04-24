@@ -1,10 +1,14 @@
 TYPE: 
 Data Packet Page
+
 NAME:
 Name of page goes here
+
 DESCRIPTION:
 Text that gets displayed to the player goes here
+
 PACKET NAMES AND FILES:
+
 Packet name 1
 	S00P00 – P1F1 – name of file.ext
 	S00P00 – P1F2 – name of file.ext

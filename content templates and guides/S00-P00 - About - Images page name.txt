@@ -1,14 +1,17 @@
 TYPE: 
 Images Page
+
 NAME:
 Name of page goes here
+
 DESCRIPTION:
 Text that gets displayed to the player goes here
+
 FILES:
-S00P00 – I01 – name of page.jpg
-S00P00 – I02 – name of page.jpg
-S00P00 – I03 – name of page.jpg
-S00P00 – I04 – name of page.jpg
+S00P00 - I01 - name of page.jpg
+S00P00 - I02 - name of page.jpg
+S00P00 - I03 - name of page.jpg
+S00P00 - I04 - name of page.jpg
 
 
 
